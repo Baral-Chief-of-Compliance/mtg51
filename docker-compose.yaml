@@ -15,8 +15,8 @@ services:
       ports: 
         - '80:80'
 
-      # volumes:
-      # - ./frontend/apteka-warehouse/dist/spa:/home/app/frontend
+      volumes:
+      - ./frontend/dist/spa:/home/app/frontend
 
       depends_on:
         - backend
