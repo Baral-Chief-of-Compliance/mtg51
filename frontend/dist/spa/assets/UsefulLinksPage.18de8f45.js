@@ -1,0 +1,1 @@
+var _=(e,r)=>{const t=e.__vccOpts||e;for(const[c,n]of r)t[c]=n;return t};const a={};function s(e,r){return" \u043F\u043E\u043B\u0435\u0437\u043D\u044B\u0435 \u0441\u0441\u044B\u043B\u043A\u0438 "}var o=_(a,[["render",s]]);export{o as default};
